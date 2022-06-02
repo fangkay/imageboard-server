@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/fangkay/imageboard-server/issues"
   },
-  "homepage": "https://github.com/fangkay/imageboard-server#readme"
+  "homepage": "https://github.com/fangkay/imageboard-server#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "sequelize": "^6.20.1",
+    "sequelize-cli": "^6.4.1"
+  }
 }

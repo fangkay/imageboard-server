@@ -1,0 +1,19 @@
+{
+  "development": {
+    "url": "postgres://ezntlmex:qD8WArq1qILRyYj-4pI5FvWZ0acJ_Azo@tyke.db.elephantsql.com/ezntlmex"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
